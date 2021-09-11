@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Color-Button-Animation</h1>
 
+<p align="center">Colour Button Animation is a collection of Animated Buttons which <br> 
+ you can use in your webpages or sites to make your buttons <br> 
+ more attractive. :heart_eyes: </p>
+
 ## ⚡️ Guidelines To Use
 1. To use this repository in your webpages or sites. first you have to fork this repository in your githu account.
 
