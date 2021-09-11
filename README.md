@@ -34,7 +34,7 @@
 8. Congratulation 🎉 You can use this repository in your Webpages or Sites.    
 
 
-## Guidelines To Contribute 
+## :page_with_curl: Guidelines To Contribute 
 1. Make sure to fork the repository, so it's available to your GitHub account, for further contributions as well as it state your contributions in it.
 
 
