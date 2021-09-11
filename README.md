@@ -9,7 +9,7 @@
  more attractive. :heart_eyes: </p>
 
 ## ⚡️ Guidelines To Use
-1. To use this repository in your webpages or sites. first you have to fork this repository in your githu account.
+1. To use this repository in your webpages or sites. first you have to fork this repository in your github account.
 
 2.  Clone the repository from your account to local PC, so its available to you locally. Also, you can make changes in it.
 
