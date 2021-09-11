@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+  
 </p>
+
 <h1 align="center">Color-Button-Animation</h1>
 
 <p align="center">Colour Button Animation is a collection of Animated Buttons which <br> 
